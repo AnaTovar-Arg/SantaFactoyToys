@@ -2,11 +2,11 @@ package dev.santafactorytoys.views;
 
 import java.util.List;
 
-import dev.controllers.ToyController;
-import dev.models.BadToy;
-import dev.models.GoodToy;
+import dev.santafactorytoys.controllers.ToyController;
 import dev.santafactorytoys.dtos.BadToyDto;
 import dev.santafactorytoys.dtos.GoodToyDto;
+import dev.santafactorytoys.models.BadToy;
+import dev.santafactorytoys.models.GoodToy;
 
 
 public class ElfoView extends View {

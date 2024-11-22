@@ -7,8 +7,8 @@ import dev.santafactorytoys.dtos.GoodToyDto;
 import dev.santafactorytoys.models.BadToy;
 import dev.santafactorytoys.models.GoodToy;
 import dev.santafactorytoys.repository.ToyRepository;
-import dev.santafactorytoys.inglentons.ToyRepositorySinglenton;
 import dev.santafactorytoys.views.ElfoView;
+import dev.santafactorytoys.inglentons.ToyRepositorySinglenton;
 
 public class ToyController {
 
